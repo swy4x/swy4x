@@ -1,85 +1,117 @@
-<!-- swy4x | GitHub profile README | SOC Analysis • Blue Team • Detection Engineering -->
+<!-- swy4x | Cybersecurity • Ethical Hacking • Blue Team -->
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/swy4x/wazuh-soc-lab/main/assets/soc-lab-banner.svg" alt="SOC Lab banner" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:071b12,70:00ff88,100:050505&height=210&section=header&text=swy4x&fontSize=72&fontColor=00ff88&fontAlignY=38&desc=ACCESS%20GRANTED%20%7C%20WELCOME%20TO%20MY%20DIGITAL%20SPACE&descAlignY=60&descSize=13&animation=fadeIn" />
 
-  <h1>Hey, I'm Swayam 👋</h1>
-  <h3>Blue Team Learner · Aspiring SOC Analyst · Security Lab Builder</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Blue+Team+%7C+SOC+Analyst+Learner;Ethical+Hacking+%7C+Linux+%7C+Networking;Building.+Breaking.+Learning.+Repeating." alt="Typing SVG" /></a>
 
-  <p>Building practical defensive-security skills through hands-on labs, log analysis, network monitoring, and detection engineering.</p>
+<br/>
 
-  <p>
-    <a href="https://github.com/swy4x/wazuh-soc-lab"><img src="https://img.shields.io/badge/Featured_Project-Wazuh_SOC_Lab-00d1b2?style=for-the-badge&logo=github&logoColor=white" alt="Featured project" /></a>
-    <img src="https://img.shields.io/badge/Focus-Blue_Team-111827?style=for-the-badge&logo=target&logoColor=00d1b2" alt="Blue Team" />
-    <img src="https://img.shields.io/badge/Status-Learning_in_Public-111827?style=for-the-badge&logo=bookstack&logoColor=00d1b2" alt="Learning in public" />
-  </p>
+[![GitHub](https://img.shields.io/badge/GitHub-swy4x-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/swy4x)
+[![Focus](https://img.shields.io/badge/FOCUS-CYBERSECURITY-0d1117?style=for-the-badge&logo=protonvpn&logoColor=00ff88)](https://github.com/swy4x)
+[![Learning](https://img.shields.io/badge/STATUS-LEARNING%20IN%20PUBLIC-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88)](https://github.com/swy4x)
 
-  <p><a href="https://github.com/swy4x?tab=repositories">Repositories</a> · <a href="https://github.com/swy4x/wazuh-soc-lab">SOC Lab</a> · <a href="https://tryhackme.com/">TryHackMe</a></p>
 </div>
 
 ---
 
-## $ whoami
+## ` whoami `
 
-I'm a computer science student working toward an entry-level **SOC Analyst / Blue Team** role.
+```bash
+┌──(swy4x㉿kali)-[~]
+└─$ whoami
+Cybersecurity learner | Computer Science student
 
-I learn by building and breaking down practical lab environments—not by collecting tool names. My current focus is understanding security telemetry, how detections work, and how an analyst investigates suspicious activity.
+└─$ cat objective.txt
+Learning cybersecurity through hands-on labs, building security
+projects, understanding how attacks work, and learning how to detect
+and investigate them.
 
-- 🔭 **Current project:** A self-hosted Wazuh SOC lab with network-monitoring and detection experiments.
-- 🛡️ **Learning focus:** SIEM fundamentals, Linux and Windows logs, networking, alert triage, and incident investigation.
-- 🧪 **Hands-on practice:** TryHackMe labs and home-lab experiments.
-- 🎯 **Career direction:** SOC Analyst L1 → Detection Engineering / Security Operations.
-- 🌱 **Currently improving:** Networking fundamentals, log analysis, and Python.
+└─$ echo $MISSION
+Understand the attack. Strengthen the defense. Keep learning.
+```
 
-## $ ./toolkit --current
+- 🛡️ Exploring **Blue Team operations, SOC workflows and threat detection**
+- ⚔️ Learning **ethical hacking, web security and offensive security fundamentals**
+- 🐧 Daily driver: **Arch Linux**
+- 🔬 Building and documenting practical security labs
+- 🌱 Currently strengthening **networking, Linux, log analysis and Python**
 
-<p>
-  <img src="https://img.shields.io/badge/Wazuh-4.14.x-00a98f?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh" />
-  <img src="https://img.shields.io/badge/Suricata-IDS-ef4b4b?style=flat-square&logo=suricata&logoColor=white" alt="Suricata" />
-  <img src="https://img.shields.io/badge/Zeek-Network_Analysis-4477aa?style=flat-square" alt="Zeek" />
-  <img src="https://img.shields.io/badge/YARA-Detection-8b5cf6?style=flat-square" alt="YARA" />
-  <img src="https://img.shields.io/badge/Linux-Arch_Linux-1793d1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Python-Learning-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Networking-Fundamentals-111827?style=flat-square" alt="Networking" />
-</p>
+## ` ./arsenal.sh `
 
-*These are tools and areas I've worked with in labs or am actively learning; this is not a claim of professional experience or certification.*
+<div align="center">
 
-## $ ls ~/projects
+### Defensive Security
+![Wazuh](https://img.shields.io/badge/Wazuh-00A98F?style=flat-square&logo=wazuh&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF4B4B?style=flat-square)
+![Zeek](https://img.shields.io/badge/Zeek-4477AA?style=flat-square)
+![YARA](https://img.shields.io/badge/YARA-8B5CF6?style=flat-square)
+![SIEM](https://img.shields.io/badge/SIEM-Log%20Analysis-111827?style=flat-square)
 
-### 🛡️ [Wazuh SOC Lab](https://github.com/swy4x/wazuh-soc-lab)
+### Offensive Security & Fundamentals
+![Linux](https://img.shields.io/badge/Linux-1793D1?style=flat-square&logo=linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-111827?style=flat-square)
+![Web Security](https://img.shields.io/badge/Web%20Security-Learning-111827?style=flat-square)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Practical%20Labs-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 
-A practical home lab exploring security monitoring, detection, and investigation.
+### Development & Tools
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
-- Wazuh SIEM/XDR deployment using Docker.
-- SSH authentication monitoring and custom detection rules.
-- File Integrity Monitoring (FIM) and EICAR test-file investigation.
-- Suricata network IDS experiments and Zeek network telemetry.
-- YARA scanning and Active Response integration.
-- Documented lab architecture, tests, and investigation notes.
+</div>
 
-**[Explore the repository →](https://github.com/swy4x/wazuh-soc-lab)**
+<sub>Tools and technologies listed reflect hands-on lab use or current learning—not professional experience or certifications.</sub>
 
----
+## ` ls -la ~/projects `
 
-## $ cat learning-roadmap.md
+### 🛡️ Wazuh SOC Home Lab
+A hands-on security monitoring environment built to explore detection, telemetry and investigation.
 
-| Area | Current direction |
-|---|---|
+- Wazuh SIEM/XDR deployed with Docker
+- SSH authentication monitoring and custom detection rules
+- File Integrity Monitoring and EICAR test-file investigation
+- Suricata IDS experiments and Zeek network telemetry
+- YARA scanning and Active Response integration
+
+[![Explore SOC Lab](https://img.shields.io/badge/EXPLORE-WAZUH_SOC_LAB-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/swy4x/wazuh-soc-lab)
+
+## ` cat roadmap.txt `
+
+| Track | Learning |
+|:--|:--|
 | Networking | TCP/IP, DNS, ports, protocols, packet analysis |
-| Linux | System basics, services, authentication and logs |
-| SOC operations | SIEM concepts, alert triage, investigation notes |
+| Blue Team | SIEM, alert triage, log analysis, incident investigation |
+| Offensive Security | Linux, web security, ethical hacking labs |
 | Detection | Wazuh rules, Suricata signatures, YARA |
-| Scripting | Python fundamentals and automation |
+| Programming | Python fundamentals and automation |
 
-## $ connect
+## ` git stats `
 
-I'm interested in connecting with cybersecurity learners, SOC analysts, and Blue Team practitioners.
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/swy4x"><img src="https://img.shields.io/badge/GitHub-swy4x-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=swy4x&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swy4x&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" alt="Top languages" />
 
-<div align="center"><sub>Learn consistently. Investigate carefully. Build, document, improve.</sub></div>
+<img width="70%" src="https://streak-stats.demolab.com?user=swy4x&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub streak" />
+
+</div>
+
+## ` connect --with-community `
+
+Interested in cybersecurity, ethical hacking, Linux, SOC operations and learning from the community.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/swy4x)
+[![Repositories](https://img.shields.io/badge/Explore-My%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/swy4x?tab=repositories)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:071b12,100:00ff88&height=110&section=footer" />
+
+<sub><code>01001000 01000001 01000011 01001011</code> · Learn ethically. Build responsibly. Stay curious.</sub>
+
+</div>
