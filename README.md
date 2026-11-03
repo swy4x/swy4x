@@ -24,13 +24,13 @@
 
 </div>
 
-## About Me
+## ` whoami ` / About Me
 
-Hey, I'm Swayam 👋
+<div align="center">
 
-I'm a cybersecurity enthusiast interested in **Blue Team operations, SOC analysis, and web security**.
+<img src="https://raw.githubusercontent.com/swy4x/swy4x/main/assets/about-me-terminal.svg" width="100%" alt="Animated hacker-style terminal introducing Swayam" />
 
-Currently learning networking, Linux, Python, and security tools while building hands-on projects and exploring cybersecurity labs.
+</div>
 
 ## ` ./arsenal.sh `
 
