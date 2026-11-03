@@ -18,19 +18,49 @@
 
 ## ` whoami `
 
-```bash
-┌──(swy4x㉿kali)-[~]
-└─$ whoami
-Cybersecurity learner | Computer Science student
+<div align="center">
 
-└─$ cat objective.txt
-Learning cybersecurity through hands-on labs, building security
-projects, understanding how attacks work, and learning how to detect
-and investigate them.
+<table>
+<tr><td>
 
-└─$ echo $MISSION
-Understand the attack. Strengthen the defense. Keep learning.
+<div align="left">
+
+```console
+╭─[ swy4x@archlinux ] ───────────────────────────────╮
+│                                                    │
+│  OS      : Arch Linux                              │
+│  USER    : swy4x                                   │
+│  ROLE    : Cybersecurity Learner                   │
+│  FOCUS   : Blue Team | Ethical Hacking             │
+│  SHELL   : zsh                                     │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+
+swy4x@archlinux:~$ whoami
+Cybersecurity learner & Computer Science student
+
+swy4x@archlinux:~$ cat about.txt
+I explore how systems work, how attacks happen, and
+how to detect, investigate, and defend against them.
+
+swy4x@archlinux:~$ ls interests/
+blue-team/  soc-operations/  ethical-hacking/
+linux/      networking/     web-security/
+
+swy4x@archlinux:~$ cat mission.txt
+Understand the attack.
+Strengthen the defense.
+Keep learning. Stay ethical.
+
+swy4x@archlinux:~$ _
 ```
+
+</div>
+
+</td></tr>
+</table>
+
+</div>
 
 - 🛡️ Exploring **Blue Team operations, SOC workflows and threat detection**
 - ⚔️ Learning **ethical hacking, web security and offensive security fundamentals**
