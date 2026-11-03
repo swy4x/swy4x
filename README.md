@@ -24,6 +24,14 @@
 
 </div>
 
+## About Me
+
+Hey, I'm Swayam 👋
+
+I'm a cybersecurity enthusiast interested in **Blue Team operations, SOC analysis, and web security**.
+
+Currently learning networking, Linux, Python, and security tools while building hands-on projects and exploring cybersecurity labs.
+
 ## ` ./arsenal.sh `
 
 <div align="center">
