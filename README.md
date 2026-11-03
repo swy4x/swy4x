@@ -16,6 +16,12 @@
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/swy4x/swy4x/main/assets/kali-inspired-dragon.svg" width="88%" alt="Custom neon-green Kali-inspired cyber dragon emblem" />
+
+</div>
+
 ## ` whoami `
 
 <div align="center">
