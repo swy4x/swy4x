@@ -51,50 +51,16 @@
 
 <sub>Tools and technologies listed reflect hands-on lab use or current learning—not professional experience or certifications.</sub>
 
-## ` ls -la ~/projects `
-
-### 🛡️ Wazuh SOC Home Lab
-A hands-on security monitoring environment built to explore detection, telemetry and investigation.
-
-- Wazuh SIEM/XDR deployed with Docker
-- SSH authentication monitoring and custom detection rules
-- File Integrity Monitoring and EICAR test-file investigation
-- Suricata IDS experiments and Zeek network telemetry
-- YARA scanning and Active Response integration
-
-[![Explore SOC Lab](https://img.shields.io/badge/EXPLORE-WAZUH_SOC_LAB-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/swy4x/wazuh-soc-lab)
-
-## ` cat roadmap.txt `
-
-| Track | Learning |
-|:--|:--|
-| Networking | TCP/IP, DNS, ports, protocols, packet analysis |
-| Blue Team | SIEM, alert triage, log analysis, incident investigation |
-| Offensive Security | Linux, web security, ethical hacking labs |
-| Detection | Wazuh rules, Suricata signatures, YARA |
-| Programming | Python fundamentals and automation |
-
-## ` git stats `
+## ` ./bughunter.sh `
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=swy4x&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swy4x&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" alt="Top languages" />
+![Bug Bounty](https://img.shields.io/badge/BUG%20BOUNTY-Learning-00ff88?style=for-the-badge&logo=bugcrowd&logoColor=black)
+![Web Security](https://img.shields.io/badge/WEB%20SECURITY-Exploring-0d1117?style=for-the-badge&logo= OWASP&logoColor=00ff88)
 
-<img width="70%" src="https://streak-stats.demolab.com?user=swy4x&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub streak" />
+**Learning web security, testing in authorized labs, and exploring responsible vulnerability disclosure.**
 
 </div>
-
-## ` connect --with-community `
-
-Interested in cybersecurity, ethical hacking, Linux, SOC operations and learning from the community.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/swy4x)
-[![Repositories](https://img.shields.io/badge/Explore-My%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/swy4x?tab=repositories)
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:071b12,100:00ff88&height=110&section=footer" />
 
