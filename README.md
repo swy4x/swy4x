@@ -20,53 +20,16 @@
 
 <div align="center">
 
-<table>
-<tr><td>
-
-<div align="left">
-
 ```console
-╭─[ swy4x@archlinux ] ───────────────────────────────╮
-│                                                    │
-│  OS      : Arch Linux                              │
-│  USER    : swy4x                                   │
-│  ROLE    : Cybersecurity Learner                   │
-│  FOCUS   : Blue Team | Ethical Hacking             │
-│  SHELL   : zsh                                     │
-│                                                    │
-╰────────────────────────────────────────────────────╯
-
-swy4x@archlinux:~$ whoami
-Cybersecurity learner & Computer Science student
-
-swy4x@archlinux:~$ cat about.txt
-I explore how systems work, how attacks happen, and
-how to detect, investigate, and defend against them.
-
-swy4x@archlinux:~$ ls interests/
-blue-team/  soc-operations/  ethical-hacking/
-linux/      networking/     web-security/
-
-swy4x@archlinux:~$ cat mission.txt
-Understand the attack.
-Strengthen the defense.
-Keep learning. Stay ethical.
-
-swy4x@archlinux:~$ _
+┌─────────────────────────────────────────┐
+│  ●  ●  ●                    TERMINAL    │
+│                                         │
+│  $ whoami                               │
 ```
 
-</div>
-
-</td></tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1800&pause=1200&color=00FF88&center=true&vCenter=true&width=300&height=45&lines=Swayam" alt="Swayam typing in terminal" />
 
 </div>
-
-- 🛡️ Exploring **Blue Team operations, SOC workflows and threat detection**
-- ⚔️ Learning **ethical hacking, web security and offensive security fundamentals**
-- 🐧 Daily driver: **Arch Linux**
-- 🔬 Building and documenting practical security labs
-- 🌱 Currently strengthening **networking, Linux, log analysis and Python**
 
 ## ` ./arsenal.sh `
 
