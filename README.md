@@ -51,17 +51,6 @@
 
 <sub>Tools and technologies listed reflect hands-on lab use or current learning—not professional experience or certifications.</sub>
 
-## ` ./bughunter.sh `
-
-<div align="center">
-
-![Bug Bounty](https://img.shields.io/badge/BUG%20BOUNTY-Learning-00ff88?style=for-the-badge&logo=bugcrowd&logoColor=black)
-![Web Security](https://img.shields.io/badge/WEB%20SECURITY-Exploring-0d1117?style=for-the-badge&logo= OWASP&logoColor=00ff88)
-
-**Learning web security, testing in authorized labs, and exploring responsible vulnerability disclosure.**
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:071b12,100:00ff88&height=110&section=footer" />
 
 <sub><code>01001000 01000001 01000011 01001011</code> · Learn ethically. Build responsibly. Stay curious.</sub>
