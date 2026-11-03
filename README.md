@@ -20,14 +20,7 @@
 
 <div align="center">
 
-```console
-┌─────────────────────────────────────────┐
-│  ●  ●  ●                    TERMINAL    │
-│                                         │
-│  $ whoami                               │
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1800&pause=1200&color=00FF88&center=true&vCenter=true&width=300&height=45&lines=Swayam" alt="Swayam typing in terminal" />
+<img src="https://raw.githubusercontent.com/swy4x/swy4x/main/assets/whoami-terminal.svg" width="100%" alt="Animated terminal displaying whoami and Swayam" />
 
 </div>
 
